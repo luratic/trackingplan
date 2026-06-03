@@ -23,7 +23,7 @@ ___INFO___
   "brand": {
     "displayName": "Luratic",
     "id": "github.com_luratic",
-    "thumbnail": "data:image/png;base64,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\u003d\u003d"
+    "thumbnail": "data:image/jpeg;base64,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\u003d\u003d"
   },
   "containerContexts": [
     "WEB"
@@ -52,21 +52,154 @@ ___TEMPLATE_PARAMETERS___
     ],
     "displayName": "Trackingplan ID",
     "valueHint": "TP123456",
+    "help": "Your Trackingplan ID.",
     "alwaysInSummary": true
   },
   {
     "type": "GROUP",
-    "name": "advanced_options",
-    "displayName": "Advanced Options",
-    "groupStyle": "ZIPPY_CLOSED",
+    "name": "basic_options",
+    "displayName": "Basic init options",
+    "groupStyle": "ZIPPY_OPEN",
     "subParams": [
       {
-        "type": "TEXT",
+        "type": "SELECT",
         "name": "environment",
         "displayName": "Environment",
         "simpleValueType": true,
+        "help": "Recommended. Use PRODUCTION for the live website and DEV for staging, QA or test environments. This helps Trackingplan keep production data separated from testing traffic.",
+        "selectItems": [
+          {
+            "value": "",
+            "displayValue": "Do not set"
+          },
+          {
+            "value": "PRODUCTION",
+            "displayValue": "PRODUCTION"
+          },
+          {
+            "value": "DEV",
+            "displayValue": "DEV"
+          }
+        ],
         "defaultValue": "PRODUCTION",
-        "alwaysInSummary": false
+        "alwaysInSummary": true
+      },
+      {
+        "type": "TEXT",
+        "name": "sourceAlias",
+        "displayName": "Source alias",
+        "simpleValueType": true,
+        "valueHint": "Optional source name",
+        "help": "Optional. Human-readable name for this source. Use it only if the same Trackingplan property receives data from different implementations, for example Web, iOS, Android or a specific site. Leave empty if this tag is your main web implementation.",
+        "alwaysInSummary": true
+      },
+      {
+        "type": "SELECT",
+        "name": "debug",
+        "displayName": "Debug mode",
+        "simpleValueType": true,
+        "help": "Optional. Do not set it in normal implementations. Select true only while testing if you want Trackingplan debug information in the browser console. Select false only if you want to explicitly force debug mode off.",
+        "selectItems": [
+          {
+            "value": "",
+            "displayValue": "Do not set"
+          },
+          {
+            "value": "true",
+            "displayValue": "true"
+          },
+          {
+            "value": "false",
+            "displayValue": "false"
+          }
+        ],
+        "defaultValue": ""
+      },
+      {
+        "type": "SELECT",
+        "name": "usePrivacy",
+        "displayName": "Privacy encryption",
+        "simpleValueType": true,
+        "help": "Optional. Leave as Do not set unless you need to explicitly control Trackingplan privacy encryption for detected personal data. Do not set does not send the usePrivacy option, so Trackingplan will use its own default behaviour, currently equivalent to enabled. When enabled, Trackingplan encrypts detected personal data in its privacy report. Select false only if you explicitly need to disable this option.",
+        "selectItems": [
+          {
+            "value": "",
+            "displayValue": "Do not set (default: true)"
+          },
+          {
+            "value": "true",
+            "displayValue": "true"
+          },
+          {
+            "value": "false",
+            "displayValue": "false"
+          }
+        ],
+        "defaultValue": ""
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "tags_group",
+    "displayName": "Tags / custom parameters",
+    "groupStyle": "ZIPPY_OPEN",
+    "subParams": [
+      {
+        "type": "SIMPLE_TABLE",
+        "name": "tags",
+        "displayName": "Tags",
+        "help": "Optional. Add custom key/value parameters to classify what Trackingplan receives. Useful for release version, GTM container version, country, page type, experiment name or build number. Empty rows are ignored.",
+        "simpleTableColumns": [
+          {
+            "defaultValue": "",
+            "displayName": "Parameter name",
+            "name": "tagName",
+            "type": "TEXT"
+          },
+          {
+            "defaultValue": "",
+            "displayName": "Parameter value",
+            "name": "tagValue",
+            "type": "TEXT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "advanced_options",
+    "displayName": "Advanced options",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "SIMPLE_TABLE",
+        "name": "customDomains",
+        "displayName": "Custom monitored domains",
+        "help": "Optional and advanced. Use this only when your website sends analytics or tracking requests to domains that Trackingplan does not detect by default. Add the request domain in the first column and the readable vendor/source name in the second column. Example: if your site sends requests to api.segment.io, use domain api.segment.io and alias Segment. Do not add your own website domain here; this is for the destination domains of tools you want Trackingplan to monitor.",
+        "simpleTableColumns": [
+          {
+            "defaultValue": "",
+            "displayName": "Domain",
+            "name": "domain",
+            "type": "TEXT"
+          },
+          {
+            "defaultValue": "",
+            "displayName": "Alias",
+            "name": "alias",
+            "type": "TEXT"
+          }
+        ]
+      },
+      {
+        "type": "TEXT",
+        "name": "getDataLayer",
+        "displayName": "Data layer getter",
+        "simpleValueType": true,
+        "valueHint": "{{Trackingplan - getDataLayer}}",
+        "help": "Optional and advanced. Use only if your data layer is not available as the standard window.dataLayer or if you need to send a custom representation to Trackingplan. Select a GTM variable that returns the getter function, for example a Custom JavaScript Variable. Do not paste the function as plain text."
       }
     ]
   },
@@ -74,17 +207,17 @@ ___TEMPLATE_PARAMETERS___
     "type": "GROUP",
     "name": "info",
     "displayName": "Information",
-    "groupStyle": "ZIPPY_CLOSED",
+    "groupStyle": "ZIPPY_OPEN",
     "subParams": [
       {
         "type": "LABEL",
-        "name": "info_web",
-        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://docs.trackingplan.com/\"\u003eTrackingplan documentation\u003c/a\u003e\u003c/strong\u003e"
+        "name": "nosdeu_info",
+        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://dato.la/template_gtm\"\u003e🐮 nosDeu - The Data Cooperative \u003c/a\u003e\u003c/strong\u003e"
       },
       {
         "type": "LABEL",
-        "name": "community",
-        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://datola.es?utm_source\u003dgtm\u0026utm_medium\u003dtemplates\u0026utm_campaign\u003dtrackingplan\"\u003eDatola - Community 📊\u003c/a\u003e\u003c/strong\u003e"
+        "name": "info_web",
+        "displayName": "\u003ca href\u003d\"https://nosd.eu/tp_gtm\"\u003eTrackingplan installation documentation\u003c/a\u003e"
       }
     ]
   }
@@ -95,20 +228,68 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const injectScript = require('injectScript');
 const callInWindow = require('callInWindow');
-
-
 const log = require('logToConsole');
-log("data", data);
-const id = data.id;
-const environment = data.environment;
 
-const consent = data.consent; 
-const trackingUrl = 'https://cdn.jsdelivr.net/gh/trackingplan/trackingplan.js/trackingplan.min.js';
+const trackingUrl = 'https://sdk.trackingplan.com/js/base/trackingplan-latest.min.js';
+
+const isSet = value => value !== undefined && value !== null && value !== '';
+
+const toBoolean = value => value === true || value === 'true';
+
+const buildKeyValueObject = (rows, keyField, valueField) => {
+  const object = {};
+  let hasValues = false;
+  rows = rows || [];
+  for (let i = 0; i < rows.length; i++) {
+    const key = rows[i][keyField];
+    const value = rows[i][valueField];
+    if (isSet(key)) {
+      object[key] = isSet(value) ? value : '';
+      hasValues = true;
+    }
+  }
+  return {object: object, hasValues: hasValues};
+};
+
+const config = {};
+
+if (isSet(data.environment)) {
+  config.environment = data.environment;
+}
+
+if (isSet(data.sourceAlias)) {
+  config.sourceAlias = data.sourceAlias;
+}
+
+if (isSet(data.debug)) {
+  config.debug = toBoolean(data.debug);
+}
+
+if (isSet(data.usePrivacy)) {
+  config.usePrivacy = toBoolean(data.usePrivacy);
+}
+
+const tags = buildKeyValueObject(data.tags, 'tagName', 'tagValue');
+if (tags.hasValues) {
+  config.tags = tags.object;
+}
+
+const customDomains = buildKeyValueObject(data.customDomains, 'domain', 'alias');
+if (customDomains.hasValues) {
+  config.customDomains = customDomains.object;
+}
+
+if (isSet(data.getDataLayer)) {
+  config.getDataLayer = data.getDataLayer;
+}
+
+if (config.debug === true) {
+  log('Trackingplan init options', config);
+}
 
 const onSuccess = () => {
-  callInWindow('Trackingplan.init', id, {
-    environment: environment
-  });
+  callInWindow('Trackingplan.init', data.id, config);
+  data.gtmOnSuccess();
 };
 
 injectScript(trackingUrl, onSuccess, data.gtmOnFailure, 'tp');
@@ -131,7 +312,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://cdn.jsdelivr.net/gh/trackingplan/trackingplan.js/trackingplan.min.js"
+                "string": "https://sdk.trackingplan.com/js/base/trackingplan-latest.min.js"
               }
             ]
           }
@@ -295,11 +476,10 @@ scenarios:
 
 ___NOTES___
 
-Developed with ❤ by: Alfonso, Txema and Brais.
-Web: www.luratic.com
-RRSS: 
+Developed by nosDeu - The Data Cooperative 🐮.
+Web: https://nosdeu.com
+
 https://www.linkedin.com/in/braiscalvo/ | https://twitter.com/braiscv
-https://www.linkedin.com/in/alfonsorc/
 https://www.linkedin.com/in/txemasm/
 
 
