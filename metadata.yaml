@@ -1,0 +1,5 @@
+homepage: "https://nosdeu.com"
+versions:
+  # Latest version
+  - sha: ecf0c308f950255fc39bc3f718550293c9a40b0d
+    changeNotes: Initial release
