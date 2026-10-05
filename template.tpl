@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Trackingplan",
+  "displayName": "Trackingplan by Luratic",
   "categories": [
     "ANALYTICS",
     "HEAT_MAP",
